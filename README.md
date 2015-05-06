@@ -1,1 +1,1 @@
-# wg-comunidades
+# gt-comunidades
