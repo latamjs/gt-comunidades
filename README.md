@@ -1,4 +1,5 @@
 # Comunidades
+[PT_BR](https://github.com/thebergamo/gt-comunidades/blob/master/README_PT.md)
 
 Es el Grupo de Trabajo encargado de prestar ayuda para creación de comunidades y eventos usando la experiencia generada desde la mismas comunidades como también fomentar la comunicación y camaradería entre ellas.
 
